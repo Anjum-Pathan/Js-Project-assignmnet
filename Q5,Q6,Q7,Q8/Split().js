@@ -15,3 +15,7 @@ console.log(skill.lastIndexOf("pw skills"));
 //last occurrence
 const skill1 = ["html", "css", "javascript", "pw skills"];
 console.log(skill1.lastIndexOf("pw skills"));
+
+//08. Demonstrate the use of trim() to remove any trailing whitespace at the beginning and the end of a string.
+const name = "           anjum               ";
+console.log(name.trim());
