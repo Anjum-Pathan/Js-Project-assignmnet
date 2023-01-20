@@ -20,4 +20,4 @@ const I = 4 != "4";
 const j = 4 == "4";
 //true
 const k = 4 === "4";
-false;
+//false;
